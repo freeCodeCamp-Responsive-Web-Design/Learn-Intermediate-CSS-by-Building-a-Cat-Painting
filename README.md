@@ -1,6 +1,11 @@
 # Learn Intermediate CSS by Building a Cat Painting
 
+![image](https://github.com/user-attachments/assets/f26cca95-53f8-4748-a5a1-0ea2fa68d681)
+
+
 This project is part of the **FreeCodeCamp** curriculum, where you'll advance your **CSS** skills by creating a **Cat Painting**.
+
+[Learn Intermediate CSS by Building a Cat Painting](https://freecodecamp-responsive-web-design.github.io/learn-intermediate-css-by-building-a-cat-painting/)
 
 ## In this project, you will:
 - Explore **intermediate CSS techniques** to create a detailed and visually engaging cat painting.
